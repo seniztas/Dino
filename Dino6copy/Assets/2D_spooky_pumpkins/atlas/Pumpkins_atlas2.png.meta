@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 3d0b118f0b294674fa3fc9bc53e764b4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pumpkin1
+    21300002: Pumpkin3
+    21300004: Pumpkin7
+    21300006: Pumpkin2
+    21300008: Pumpkin4
+    21300010: Pumpkin5
+    21300012: Pumpkin6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pumpkin1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1240
+        width: 736
+        height: 804
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1360
+        width: 634
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin7
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1360
+        width: 635
+        height: 678
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 626
+        width: 736
+        height: 610
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 666
+        width: 808
+        height: 675
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 749
+        height: 615
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pumpkin6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 4
+        width: 755
+        height: 628
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
